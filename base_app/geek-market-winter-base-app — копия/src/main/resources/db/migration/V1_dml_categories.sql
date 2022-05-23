@@ -1,0 +1,1 @@
+insert into categories (title) values ('Телевизоры'),('Ноутбуки');
