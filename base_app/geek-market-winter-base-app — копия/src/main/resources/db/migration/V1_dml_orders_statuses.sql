@@ -1,0 +1,1 @@
+insert into orders_statuses values ('В обработке'),('Сформирован');
